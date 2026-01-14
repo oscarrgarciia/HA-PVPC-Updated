@@ -1,0 +1,11 @@
+{
+  "domain": "pvpc_updated",
+  "name": "Home Assistant PVPC Hourly Pricing Updated",
+  "version": "1.0.0",
+  "documentation": "https://github.com/oscarrgarciia/HA-PVPC-Updated",
+  "dependencies": [],
+  "codeowners": ["@oscarrgarciia"],
+  "requirements": [],
+  "iot_class": "cloud_polling",
+  "config_flow": true
+} 
