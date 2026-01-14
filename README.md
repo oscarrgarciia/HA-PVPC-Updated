@@ -27,6 +27,7 @@ Custom integration for Home Assistant that retrieves the PVPC (Voluntary Price f
 4. Search for the **Home Assistant PVPC Hourly Pricing Updated** integration in HACS and click **Install**.
 5. Restart Home Assistant.
 6. Configure the sensors via **Settings → Devices & Integrations**.
+7. Search for the **Home Assistant PVPC Hourly Pricing Updated** and click **Install**.
 
 ---
 
