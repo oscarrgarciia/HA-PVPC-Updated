@@ -34,7 +34,7 @@ Custom integration for Home Assistant that retrieves the PVPC (Voluntary Price f
 ## 🔧 Configuration
 
 - No external configuration is required if you only want hourly sensors.
-- For it to work correctly, you must first remove any other PVPC integration.
+- ⚠️ For it to work correctly, you must first remove any other PVPC integration.
 
 ---
 
