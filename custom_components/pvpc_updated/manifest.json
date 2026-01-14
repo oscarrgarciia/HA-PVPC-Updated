@@ -1,7 +1,7 @@
 {
   "domain": "pvpc_updated",
   "name": "Home Assistant PVPC Hourly Pricing Updated",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "documentation": "https://github.com/oscarrgarciia/HA-PVPC-Updated",
   "issue_tracker": "https://github.com/oscarrgarciia/HA-PVPC-Updated/issues",
   "dependencies": [],
