@@ -1,3 +1,5 @@
+![logo](./logo.png)
+
 # Home Assistant PVPC Hourly Pricing (Updated)
 
 >**⚠️ Disclaimer**
