@@ -4,7 +4,7 @@
 
 Custom integration for Home Assistant that retrieves the PVPC (Voluntary Price for Small Consumers) electricity prices in Spain, broken down by hourly periods. Allows using the data in **sensors**, **automations**, and **energy dashboards** in Home Assistant.
 
-> ℹ️ **Release v1.2.0** automates the calculation of holiday dates so it no longer depends on yearly manual updates. Please test it and if you find any issues open an issue so we can fix it as soon as possible. Thank you all for your support! ❤️
+> ℹ️ **Release v1.2.0** automates the calculation of holiday dates so it no longer depends on yearly manual updates. Please test it and if you find any issues open an issue so we can fix it as soon as possible. If you find any issues you can always roll back to v1.1.1 which works fine. Thank you all for your support! ❤️
 
 ---
 
